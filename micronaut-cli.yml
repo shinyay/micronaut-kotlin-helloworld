@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.google.shinyay
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
